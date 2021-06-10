@@ -1,2 +1,2 @@
 # C
-This is a C repository files
+This is a repository of C files
